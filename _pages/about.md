@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Siddharth Vohra"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,27 +9,17 @@ redirect_from:
 
 # Hello, I'm Siddharth!
 
-I'm a Software and Machine Learning Engineer. I currently work for Amazon Web Services AI in Seattle, WA as a Software Development Engineer II.
+I’m a Machine Learning Engineer and Researcher currently based in Seattle, WA. I work at Amazon Web Services (AWS) AI, where I focus on building production-grade machine learning systems that power services like Amazon Transcribe, Amazon Translate, and AWS Bedrock. My work bridges the gap between applied machine learning and robust backend infrastructure, enabling scalable and intelligent applications across speech and language domains.
 
-I'm a Mathematics - Computer Science graduate from UC San Diego. I'm also a recent graduate from Harvard Business School's CORe program.
+I graduated from the University of California, San Diego with a degree in Mathematics–Computer Science in 2022. My academic foundation in mathematics and computer science complements my hands-on experience building systems in cloud-native environments using tools like AWS SageMaker, Bedrock, PyTorch, and TensorFlow.
 
 ## About Me
 
-I'm passionate about building software solutions and working with machine learning technologies. With experience at AWS, I've developed skills in multiple programming languages and cloud technologies.
+My interests lie at the intersection of software engineering and AI research, with a growing focus on computer vision. I’m particularly excited about developing systems that can learn to interpret, analyze, and generate visual information. As part of my graduate studies and independent research, I’ve been exploring areas like image classification, representation learning, and visual reasoning. I’ve also contributed to published work on educational QA and multilingual processing, with a broader goal of improving model generalization and usability across real-world applications.
 
-As a Software Development Engineer at AWS Lambda organization, I've worked on the Elastic Beanstalk & App Runner team, enhancing and maintaining a diverse range of products. I've independently orchestrated the integration of multiple AWS products across several teams and developed autonomous testing suites.
+Professionally, I’ve worked on high-impact projects involving automatic speech recognition (ASR), model optimization, and end-to-end pipeline deployment in production environments. I’m experienced in collaborating across engineering, research, and product teams to deliver ML features that scale globally. I enjoy working on challenging technical problems—from designing new service architectures to fine-tuning models and optimizing inference pipelines.
 
-## My Experience
-
-- **Software Development Engineer II** @ Amazon Web Services (April 2024 - Present)
-- **Software Development Engineer** @ Amazon Web Services (August 2022 - March 2024)
-- **Software Engineer Intern** @ Teradata (July 2021 - September 2021)
-
-## Education
-
-- **Harvard Business School Online** - CORe: Credential of Readiness (2022 - 2023)
-- **University of California, San Diego** - BS in Computer Science + Mathematics (2019 - 2022)
-- **Delhi Public School, R.K. Puram** - High School Diploma, Science (2004 - 2018)
+Outside of work, I’m deeply interested in the future of AI systems that blend language and vision, and in pushing the boundaries of model capabilities in multilingual and multimodal settings. I’m also an advocate for open, reproducible research and enjoy collaborating with others in the ML community.
 
 ## Get in Touch
 

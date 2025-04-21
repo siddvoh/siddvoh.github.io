@@ -7,19 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Siddharth Vohra
-
-**MACHINE LEARNING ENGINEER | SOFTWARE ENGINEER**
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <span>siddvoh@gmail.com</span> |
-    <span><a href="https://www.linkedin.com/in/siddvoh">www.linkedin.com/in/siddvoh</a></span> |
-    <span><a href="https://www.siddvoh.com">www.siddvoh.com</a></span> |
-    <span>+1 (858) 349-3962</span> |
-    <span>Seattle, WA</span>
-</div>
-
-## INDUSTRY EXPERIENCE
+## Work Experience
 
 ### Amazon Web Services
 **Software Development Engineer II, AWS AI** (April 2024 - Present) | Seattle, WA
@@ -51,7 +39,7 @@ redirect_from:
 - Enhanced system reliability and scalability, supporting seamless SQL integration and management of large datasets
 - **Tech stack**: C (Back-end), SQL (Queries) & Teradata database system (Database)
 
-## EDUCATION
+## Education
 
 ### University of California, San Diego
 **Bachelor of Science in Computer Science & Mathematics** | Cum Laude, Latin Honors | San Diego, CA  
@@ -59,33 +47,16 @@ redirect_from:
 - Provost Honors, Eleanor Roosevelt College (All Enrolled Quarters)
 - Founding & Principal Member, Machine Learning Club at UC San Diego and Member, Data Science Student Society
 
-## RESEARCH EXPERIENCE
-
-### Independent Research
-*December 2023 - Present*
-- Continued independent research with Hitachi R&D, focusing on challenging the multilingualism and reasoning capabilities of LLMs
-- Collaborated on a project accepted to COLING 2025, helping enhance LLM reasoning on MCQs based on educational texts in Indian regional languages (Hindi & Kannada) as well as providing baselines for difficulty estimation in these languages
-- Set up experiments using various LLMs (GPT, Claude, Llama, and Gemma), applying quantization techniques like LoRA and QLoRA
-- Initiated and led a project to benchmark coding question difficulty using LLMs, attempting to develop a BERT-like model for assessing programming problem complexity
-
-### Hitachi Research & Development
-**Artificial Intelligence (AI) / Machine Learning (ML) Research Intern (Pro-Bono)** | Bengaluru, India  
-*June 2020 – August 2020*
-- Worked at Hitachi R&D center on various Computer Vision related projects
-- Benchmarked the Temporal Ensembling Model across diverse datasets, analyzing intraclass variability impacts. This involved setting up experiments, selecting datasets, collaborating with senior researchers and interpreting results
-- Explored computer vision techniques for pedestrian attribute recognition and person re-identification. This research included testing different algorithmic approaches and neural network architectures to improve identification accuracy in security applications
-- **Tech stack**: Python (Back-End), PyTorch (ML Library) & Google Colaboratory (Model Training using cloud GPU)
-
-## CERTIFICATIONS
+## Certifications
 - Machine Learning Specialization by DeepLearning.AI and Stanford Online (2024)
 - Deep Learning Specialization by DeepLearning.AI (2024)
 - Harvard Business School Credential of Readiness (CORe) (2023)
 - Amazon Web Services (AWS) Certified Cloud Practitioner (2020, 2024)
 - Amazon Web Services (AWS) Certified AI Practitioner (2024)
 
-## SKILLS
+## Skills
 **Languages & DevTools**: C, Java, Python, Golang, C++, ARM, Java Script, HTML/CSS, JUnit, Puppeteer, MATLAB, R  
 **Libraries & Tools**: AWS, GCP, Azure, React JS, Node JS, Numpy, Pandas, PyTorch, TensorFlow, Git, MySQL, MongoDB, IndexedDB  
 **AI/ML Engineering**: AWS Managed AI Suite, AWS SageMaker, Bedrock, Fine-tuning, Quantization, Model Inference pipelines
 
-[Download CV](#) {: .btn .btn--primary}
+[Download CV](#)

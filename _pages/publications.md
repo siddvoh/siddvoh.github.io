@@ -1,37 +1,35 @@
 ---
 layout: single
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-# Publications and Research
-
 ## Academic Publications
 
-### TEEMIL: Towards Educational MCQ Difficulty Estimation in Indic Languages
-*Accepted for COLING 2025*
+### [TEEMIL: Towards Educational MCQ Difficulty Estimation in Indic Languages](https://aclanthology.org/2025.coling-main.142/)
+*The 31st International Conference on Computational Linguistics (COLING 2025)*
 
-Ravikiran, M., Vohra, S., Verma, R., Saluja, R., & Bhavsar, A. (2025). TEEMIL: Towards Educational MCQ Difficulty Estimation in Indic Languages. The 31st International Conference on Computational Linguistics (COLING 2025). ACL Anthology. [https://aclanthology.org/2025.coling-main.142/](https://aclanthology.org/2025.coling-main.142/)
+Ravikiran, M., Vohra, S., Verma, R., Saluja, R., & Bhavsar, A. (2025). TEEMIL: Towards Educational MCQ Difficulty Estimation in Indic Languages. The 31st International Conference on Computational Linguistics (COLING 2025). ACL Anthology.
 
-### You Reap What You Sow—Revisiting Intra-class Variations and Seed Selection in Temporal Ensembling for Image Classification
-*Proceedings of International Conference on Frontiers in Computing and Systems (2023)*
+### [You Reap What You Sow—Revisiting Intra-class Variations and Seed Selection in Temporal Ensembling for Image Classification](https://link.springer.com/chapter/10.1007/978-981-19-0105-8_8)
+*International Conference on Frontiers in Computing and Systems (COMSYS 2023)*
 
 Ravikiran, M., Vohra, S., Nonaka, Y., Kumar, S., Sen, S., Mariyasagayam, N., & Banerjee, K. (2023). You Reap What You Sow—Revisiting Intra-class Variations and Seed Selection in Temporal Ensembling for Image Classification. In Proceedings of International Conference on Frontiers in Computing and Systems (pp. 73-82). Springer, Singapore.
 
 *(Manikandan Ravikiran and Siddharth Vohra—Both authors contributed equally. Names are ordered alphabetically)*
 
-### Investigating the Effect of Intraclass Variability in Temporal Ensembling
+### [Investigating the Effect of Intraclass Variability in Temporal Ensembling](https://arxiv.org/abs/2008.08956)
 *arXiv preprint (2020)* 
 
-Vohra, S., & Ravikiran, M. (2020, August 21). Investigating the effect of intraclass variability in temporal ensembling. [arXiv.org](https://arxiv.org/abs/2008.08956)
+Vohra, S., & Ravikiran, M. (2020, August 21). Investigating the effect of intraclass variability in temporal ensembling. arXiv.org
 
 ## Technical Blogs
 
-### Using WAF with App Runner in Copilot
+### [Using WAF with App Runner in Copilot](https://aws.github.io/copilot-cli/blogs/apprunner-waf/)
 *February 23, 2023*
 
-Vohra, S. (2023, February 23). Using WAF with app runner in copilot. [AWS Copilot CLI Blog](https://aws.github.io/copilot-cli/blogs/apprunner-waf/)
+Vohra, S. (2023, February 23). Using WAF with app runner in copilot. AWS Copilot CLI Blog
 
 ## Research Experience
 
