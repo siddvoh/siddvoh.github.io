@@ -58,5 +58,3 @@ redirect_from:
 **Languages & DevTools**: C, Java, Python, Golang, C++, ARM, Java Script, HTML/CSS, JUnit, Puppeteer, MATLAB, R  
 **Libraries & Tools**: AWS, GCP, Azure, React JS, Node JS, Numpy, Pandas, PyTorch, TensorFlow, Git, MySQL, MongoDB, IndexedDB  
 **AI/ML Engineering**: AWS Managed AI Suite, AWS SageMaker, Bedrock, Fine-tuning, Quantization, Model Inference pipelines
-
-[Download CV](#)
