@@ -1,3 +1,50 @@
+# Siddharth Vohra's Personal Website
+
+This repository contains the source code for my personal website, hosted at [siddvoh.github.io](https://siddvoh.github.io).
+
+## Quick Start
+
+1. To make changes locally, clone this repository
+2. Install Jekyll and dependencies by running `bundle install`
+3. Run the site locally with `bundle exec jekyll serve`
+4. View the site at `http://localhost:4000`
+
+## Site Structure
+
+- `_config.yml` - Main configuration file 
+- `_data/navigation.yml` - Navigation menu structure
+- `_pages/` - Content for main pages
+  - `about.md` - Home page content
+  - `resume.md` - Resume/CV page
+  - `projects.md` - Projects page
+  - `research.md` - Research publications and conferences
+  - `contact.md` - Contact information
+- `images/` - Image files, including the profile picture
+- `files/` - PDFs and other downloadable files
+- `assets/css/main.scss` - Custom CSS styles
+
+## Updating Content
+
+### Profile Picture
+
+Replace the file at `images/profile.png` with your profile picture.
+
+### Resume PDF
+
+Add your resume PDF to the `files/` directory, then update the download link in `_pages/resume.md`.
+
+### Page Content
+
+Update the markdown files in the `_pages/` directory to change the content of each page.
+
+### Site Configuration
+
+Edit `_config.yml` to update site-wide settings and your personal information.
+
+## Credits
+
+This site is based on [Academic Pages](https://github.com/academicpages/academicpages.github.io), which is a fork of the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
