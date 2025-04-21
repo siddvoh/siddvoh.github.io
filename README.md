@@ -7,7 +7,7 @@ This repository contains the source code for my personal website, hosted at [sid
 1. To make changes locally, clone this repository
 2. Install Jekyll and dependencies by running `bundle install`
 3. Run the site locally with `bundle exec jekyll serve`
-4. View the site at `http://localhost:4000`
+4. View the site at `https://localhost:4000`
 
 ## Site Structure
 
