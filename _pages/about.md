@@ -23,4 +23,4 @@ Outside of work, I’m deeply interested in the future of AI systems that blend 
 
 ## Get in Touch
 
-Feel free to explore my [projects](/projects/) and [research](/research/), or check out my full [resume](/resume/). You can reach me via [email](mailto:siddvoh@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/yourlinkedin).
+Feel free to explore my [projects](/projects/) and [research](/research/), or check out my full [resume](/resume/). You can reach me via [email](mailto:siddvoh@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/siddvoh).
