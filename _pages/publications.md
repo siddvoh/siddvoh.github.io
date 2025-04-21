@@ -22,7 +22,7 @@ Ravikiran, M., Vohra, S., Nonaka, Y., Kumar, S., Sen, S., Mariyasagayam, N., & B
 *(Manikandan Ravikiran and Siddharth Vohra—Both authors contributed equally. Names are ordered alphabetically)*
 
 ### Investigating the Effect of Intraclass Variability in Temporal Ensembling
-*arXiv preprint (2020)*
+*arXiv preprint (2020)* 
 
 Vohra, S., & Ravikiran, M. (2020, August 21). Investigating the effect of intraclass variability in temporal ensembling. [arXiv.org](https://arxiv.org/abs/2008.08956)
 
@@ -56,7 +56,4 @@ Bengaluru, India
 - Set up experiments, selected appropriate datasets, collaborated with senior researchers, and interpreted results
 - Explored computer vision techniques for pedestrian attribute recognition and person re-identification
 - Tested different algorithmic approaches and neural network architectures to improve identification accuracy in security applications
-- Technologies used: Python, PyTorch, Google Colaboratory (for cloud GPU-based model training)
-
-
-
+- Technologies used: Python, PyTorch, Google Colaboratory (for cloud GPU-based model training) 
