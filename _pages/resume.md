@@ -7,78 +7,83 @@ author_profile: true
 
 # Siddharth Vohra
 
-**Software & Data Engineer**
+**MACHINE LEARNING ENGINEER | SOFTWARE ENGINEER**
 
-[Download Resume](#)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <span>siddvoh@gmail.com</span> |
+    <span><a href="https://www.linkedin.com/in/siddvoh">www.linkedin.com/in/siddvoh</a></span> |
+    <span><a href="https://www.siddvoh.com">www.siddvoh.com</a></span> |
+    <span>+1 (858) 349-3962</span> |
+    <span>Seattle, WA</span>
+</div>
 
-## Work Experience
+## INDUSTRY EXPERIENCE
 
-### Software Development Engineer II @ Amazon Web Services
-*Seattle, Washington*  
-*April 2024 - Present*
+### Amazon Web Services
+**Software Development Engineer II, AWS AI** (April 2024 - Present) | Seattle, WA
+- Specialized in maintaining, enhancing, and improving Amazon Transcribe, AWS Bedrock and Amazon Translate within the AWS Bedrock Generative AI Services organization by leveraging cutting-edge AWS AI/ML models and technologies
+- Developed and collaborated on large-scale, advanced automatic speech recognition (ASR) models, significantly enhancing speech-to-text capabilities for up to 30% faster and 2x more accurate transcription services
+- Designed, prototyped and now building a new service architecture to completely revamp audio and video tasks with Agentic AI via Bedrock Data Automation
+- Singlehandely deployed and rolled out our new language identification models in multi language identification transcription workflows
+- Led the expansion of Custom Language Models (CLMs), facilitating the integration of domain-specific knowledge for enhanced context-aware transcriptions, to two new AWS regions
+- Led the launch of our newest generation of language identification models by implementing new model delivery pipeline, testing 100+ cases and ensuring accurate transcription for our customers
+- Improved and optimized scalable pipelines on AWS infrastructure, ensuring high availability and low latency for translation services
+- **Tech stack**: Java (Back-end), Python (Back-end), PyTorch, TensorFlow & AWS AI/ML tools suite
 
-### Software Development Engineer @ Amazon Web Services
-*Seattle, Washington*  
-*August 2022 - March 2024*
+**Software Development Engineer I, AWS Lambda** (August 2022 - March 2024) | Seattle, WA
+- Contributed to a diverse portfolio of products in the AWS Lambda organization as part of the AWS Elastic Beanstalk & App Runner team, collaborating across 5+ teams, blending various research methodologies for internal, open-source, and customer-driven projects
+- Led the cross-team integration of AWS WAF into Copilot CLI (Go) for App Runner, ensuring secure apps for thousands of AWS users
+- Architected and engineered an automated testing suite that simulates every potential user interaction with the App Runner console to ensure a 99.9% up-time, securing stability and scalability within budget constraints
+- Took ownership and led the redevelopment of a versatile internal tool, reducing issue resolution time by up to 85% through systematic evaluation and engineering process refinement
+- Improved codebase, worked with product managers and designers to fix multiple bugs and remove numerous customer-facing pain-points for App Runner & Elastic Beanstalk console experience, leading to a 18% increase in service adoption using the console
+- Improved team-owned product backend infrastructure by migrating to AWS CDK, enabling efficient deployment methodologies
+- Played a pivotal role in the launching App Runner into 3 new regions and catalyzing a multi-million dollar revenue increase for AWS
+- Employed AWS ecosystem technologies (EC2, CDK, WAF, CloudWatch, S3, DynamoDB, Lambda) to deliver high-quality solutions
+- **Tech stack**: Go (Back-end), Java (Back-end), Python (Back-end), TypeScript, Node.js, JavaScript (Front-end), React.js & AWS tools
 
-- Working in AWS Lambda organization, on the Elastic Beanstalk & App Runner team, to enhance and maintain a diverse range of products
-- Independently orchestrated the integration of 3 AWS products across 4+ teams, culminating in a user-facing AWS project
-- Singlehandedly developed an autonomous testing suite that continuously emulates every possible customer interaction with the App Runner console
-- Collaborating with multiple teams on internal, open-source, and customer-centric projects, including addressing numerous security issues
-- Employing AWS technologies (EC2, App Runner, WAF, Copilot, CloudWatch, S3, DynamoDB, Lambda, CDK) to deliver high-quality solutions
-- Using Go (Back-end), Java (Back-end), Python (Back-end), Node.js (Back-end), JavaScript (Front-end), React (JS Library), and AWS Internal tools
+### Teradata
+**Software Engineer Intern** (July 2021 – September 2021) | San Diego, CA
+- Devised and implemented strategies to streamline storage and management of large objects in the TeraCloud system architecture
+- Collaborated with TeraCloud team to restructure storage for large objects within and across Teradata database systems, resulting in 50% more efficient & swift computation for stakeholders
+- Engineered sophisticated wrapper functions for use across Teradata systems, ensuring enhanced security, efficiency, and scalability
+- Enhanced system reliability and scalability, supporting seamless SQL integration and management of large datasets
+- **Tech stack**: C (Back-end), SQL (Queries) & Teradata database system (Database)
 
-**Some external user-facing projects include:**
-- AWS App Runner - WAF Integration
-- AWS App Runner - WAF - Copilot CLI Integration
-- AWS App Runner - Update & Rebuild Failed Services
-
-### Software Engineer Intern @ Teradata
-*San Diego, California*  
-*July 2021 - September 2021*
-
-- Developed methods to efficiently store and manage large objects in the teracloud system
-- Worked with the Teracloud team to implement the storage of large objects within/across Teradata database systems
-- Used C (Back-end), SQL (Queries) and Teradata database system (Database)
-
-## Education
-
-### Harvard Business School Online
-*CORe: Credential of Readiness*  
-*2022 - 2023*
+## EDUCATION
 
 ### University of California, San Diego
-*Bachelor's of Science in Computer Science + Mathematics*  
-*2019 - 2022*
+**Bachelor of Science in Computer Science & Mathematics** | Cum Laude, Latin Honors | San Diego, CA  
+*September 2019 - June 2022*
+- Provost Honors, Eleanor Roosevelt College (All Enrolled Quarters)
+- Founding & Principal Member, Machine Learning Club at UC San Diego and Member, Data Science Student Society
 
-**Relevant Coursework:** Software Engineering, Algorithm Design & Analysis, Advanced Data Structures, Organization and Systems Programming, Operating Systems, Theory of Computability, Engineering Computation, Web Mining and Recommender Systems, Principles of Data Science, Engineering Probability & Statistics, Data Science in Practice, Exploratory Data Analysis, and Inference
+## RESEARCH EXPERIENCE
 
-### Delhi Public School, R. K. Puram
-*High School Diploma, Science*  
-*2004 - 2018*
+### Independent Research
+*December 2023 - Present*
+- Continued independent research with Hitachi R&D, focusing on challenging the multilingualism and reasoning capabilities of LLMs
+- Collaborated on a project accepted to COLING 2025, helping enhance LLM reasoning on MCQs based on educational texts in Indian regional languages (Hindi & Kannada) as well as providing baselines for difficulty estimation in these languages
+- Set up experiments using various LLMs (GPT, Claude, Llama, and Gemma), applying quantization techniques like LoRA and QLoRA
+- Initiated and led a project to benchmark coding question difficulty using LLMs, attempting to develop a BERT-like model for assessing programming problem complexity
 
-## Certifications
+### Hitachi Research & Development
+**Artificial Intelligence (AI) / Machine Learning (ML) Research Intern (Pro-Bono)** | Bengaluru, India  
+*June 2020 – August 2020*
+- Worked at Hitachi R&D center on various Computer Vision related projects
+- Benchmarked the Temporal Ensembling Model across diverse datasets, analyzing intraclass variability impacts. This involved setting up experiments, selecting datasets, collaborating with senior researchers and interpreting results
+- Explored computer vision techniques for pedestrian attribute recognition and person re-identification. This research included testing different algorithmic approaches and neural network architectures to improve identification accuracy in security applications
+- **Tech stack**: Python (Back-End), PyTorch (ML Library) & Google Colaboratory (Model Training using cloud GPU)
 
-- Amazon Web Services (AWS) Certified Cloud Practitioner
+## CERTIFICATIONS
+- Machine Learning Specialization by DeepLearning.AI and Stanford Online (2024)
+- Deep Learning Specialization by DeepLearning.AI (2024)
+- Harvard Business School Credential of Readiness (CORe) (2023)
+- Amazon Web Services (AWS) Certified Cloud Practitioner (2020, 2024)
+- Amazon Web Services (AWS) Certified AI Practitioner (2024)
 
-## Awards
+## SKILLS
+**Languages & DevTools**: C, Java, Python, Golang, C++, ARM, Java Script, HTML/CSS, JUnit, Puppeteer, MATLAB, R  
+**Libraries & Tools**: AWS, GCP, Azure, React JS, Node JS, Numpy, Pandas, PyTorch, TensorFlow, Git, MySQL, MongoDB, IndexedDB  
+**AI/ML Engineering**: AWS Managed AI Suite, AWS SageMaker, Bedrock, Fine-tuning, Quantization, Model Inference pipelines
 
-- **Cum Laude - Latin Honors** - UC San Diego (June 2022)
-- **Provost's Honors** - UC San Diego (All Quarters 2019-2022)
-- **Gold Medal for Academic Excellence** - Delhi Public School, R.K.Puram (November 2017)
-
-## Skills & Expertise
-
-**Languages:**  
-C, Java, Python, Go, C++, ARM, JavaScript, HTML/CSS
-
-**Frameworks, Libraries, & Tools:**  
-AWS, React.js, Node.js, Numpy, Pandas, PyTorch, TensorFlow, JUnit, Puppeteer, MATLAB, LaTeX, Git, MySQL, MongoDB
-
-## Organizations
-
-**Leadership:**  
-Founding & Principal Member, Machine Learning Club at UC San Diego
-
-**Membership:**  
-UCSD Data Science Student Society (DS3), Association for Computing Machinery (ACM), IEEE 
+[Download Resume](#) {: .btn .btn--primary} 

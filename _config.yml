@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Siddharth Vohra"
 title_separator          : "-"
 name                     : &name "Siddharth Vohra"
-description              : &description "Software & Data Engineer"
+description              : &description "Machine Learning Engineer | Software Engineer"
 url                      : https://siddvoh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "siddvoh/siddvoh.github.io"
@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Siddharth Vohra"
   pronouns         : # example: "she/her"  
-  bio              : "Software and Machine Learning Engineer"
+  bio              : "Machine Learning Engineer | Software Engineer"
   location         : "Seattle, WA"
   employer         : "Amazon Web Services AI"
-  uri              : # URL
+  uri              : "https://www.siddvoh.com"
   email            : "siddvoh@gmail.com" 
 
   # Academic websites
