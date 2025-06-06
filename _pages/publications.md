@@ -34,24 +34,12 @@ Vohra, S. (2023, February 23). Using WAF with app runner in copilot. AWS Copilot
 ## Research Experience
 
 ### Independent Research
-*December 2023 - Present*
+*June 2020 - Present*
 
-- Currently challenging the multilingualism and reasoning capabilities of Large Language Models (LLMs) through independent research
-- Collaborating with former Hitachi R&D colleagues on research projects focused on multilingual education and LLM evaluation
-- Project accepted to COLING 2025, focusing on enhancing LLM reasoning on multiple-choice questions based on educational texts in Indian regional languages (Hindi & Kannada)
-- Providing baselines for difficulty estimation in these languages using various natural language processing techniques
-- Setting up and evaluating experiments using various LLMs including GPT, Claude, Llama, and Gemma
-- Applying advanced quantization techniques like LoRA and QLoRA to improve model performance and efficiency
-- Leading a project to benchmark coding question difficulty using LLMs with the goal of developing a BERT-like model for assessing programming problem complexity
-
-### Hitachi Research & Development
-*June 2020 – August 2020*  
-**Artificial Intelligence (AI) / Machine Learning (ML) Research Intern (Pro-Bono)**  
-Bengaluru, India
-
-- Worked on various Computer Vision projects at Hitachi R&D center
-- Benchmarked the Temporal Ensembling Model across diverse datasets, analyzing intraclass variability impacts
-- Set up experiments, selected appropriate datasets, collaborated with senior researchers, and interpreted results
-- Explored computer vision techniques for pedestrian attribute recognition and person re-identification
-- Tested different algorithmic approaches and neural network architectures to improve identification accuracy in security applications
-- Technologies used: Python, PyTorch, Google Colaboratory (for cloud GPU-based model training) 
+- Conducted independent research with mentors from Hitachi R&D and Thoughtworks, spanning traditional machine learning, large language models (LLMs), and computer vision
+- Co‑authored a COLING 2025 paper introducing a multiple‑choice question benchmark for Hindi and Kannada educational texts and providing LLM‑based baseline difficulty‑estimation models.
+- Co‑authored a AIED 2025 submission investigating whether semantic similarity between answer options can predict question difficulty
+- Benchmarked Temporal Ensembling semi‑supervised models across diverse vision datasets, analysing intra‑class variability impacts in collaboration with Hitachi R&D; findings published at COMSYS 2023
+- Initiated and led a project to benchmark coding‑question difficulty using LLMs, developing a BERT‑style model for automatic programming‑problem complexity estimation.
+- Explored computer‑vision techniques for pedestrian‑attribute recognition and person re‑identification, evaluating multiple network architectures to improve identification accuracy in security applications.
+- Built reproducible pipelines to fine‑tune GPT, Claude, Llama and Gemma models with LoRA/QLoRA, enabling single‑GPU experimentation.
