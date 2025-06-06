@@ -47,7 +47,7 @@ redirect_from:
 ## Education
 
 ### Carnegie Mellon University
-**Master of Science in Computer Science & Mathematics** | | Pittsburgh, PA
+**Master of Science in Computer Science & Mathematics** | | Pittsburgh, PA   
 *August 2025 - June 2027*
 
 ### University of California, San Diego
