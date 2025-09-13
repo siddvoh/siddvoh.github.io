@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hello, I'm Siddharth!
+# Hello, I'm Sidd!
 
 I’m a Machine Learning Engineer and Researcher based in Pittsburgh, PA. At the AWS Generative AI Innovation Center, I build AI-native products end to end. I’m also pursuing a Master’s in Computer Vision at Carnegie Mellon University, where I’m engaged in related research.
 
