@@ -55,11 +55,11 @@ manual security assessment times by at least 50%
 ## Education
 
 ### Carnegie Mellon University
-**Master of Science in Computer Vision** | | Pittsburgh, PA   
+**Master of Science in Computer Vision** | Pittsburgh, PA   
 *August 2025 - May 2027*
 
 ### University of California, San Diego
-**Bachelor of Science in Computer Science & Mathematics** | | San Diego, CA  
+**Bachelor of Science in Mathematics - Computer Science** | San Diego, CA  
 *September 2019 - June 2022*
 - Cum Laude, Latin Honors
 - Provost Honors, Eleanor Roosevelt College (All Enrolled Quarters)
