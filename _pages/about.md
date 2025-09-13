@@ -9,17 +9,15 @@ redirect_from:
 
 # Hello, I'm Siddharth!
 
-I’m a Machine Learning Engineer and Researcher currently based in Seattle, WA. I work at Amazon Web Services (AWS) AI, where I focus on building production-grade machine learning systems that power services like Amazon Transcribe, Amazon Translate, and AWS Bedrock. My work bridges the gap between applied machine learning and robust backend infrastructure, enabling scalable and intelligent applications across speech and language domains.
+I’m a Machine Learning Engineer and Researcher based in Pittsburgh, PA. At the AWS Generative AI Innovation Center, I build AI-native products end to end. I’m also pursuing a Master’s in Computer Vision at Carnegie Mellon University, where I’m engaged in related research.
 
-I graduated from the University of California, San Diego with a degree in Mathematics–Computer Science in 2022. My academic foundation in mathematics and computer science complements my hands-on experience building systems in cloud-native environments using tools like AWS SageMaker, Bedrock, PyTorch, and TensorFlow.
+Previously, I built production-grade ML systems powering AWS Bedrock, AWS Transcribe, and AWS Translate, bridging applied machine learning with robust backend infrastructure to deliver scalable, reliable applications across speech and language. I earned a Bachelor's in Mathematics–Computer Science from UC San Diego in 2022. My foundations in mathematics, computer science, and AI pair with hands-on, cloud-native experience using AWS SageMaker, Bedrock, PyTorch, and TensorFlow.
 
 ## About Me
 
-My interests lie at the intersection of software engineering and AI research, with a growing focus on computer vision. I’m particularly excited about developing systems that can learn to interpret, analyze, and generate visual information. As part of my graduate studies and independent research, I’ve been exploring areas like image classification, representation learning, and visual reasoning. I’ve also contributed to published work on educational QA and multilingual processing, with a broader goal of improving model generalization and usability across real-world applications.
+My interests lie at the intersection of machine learning engineering and AI research. I’m particularly excited about developing systems that can learn to interpret, analyze, and generate multi-modal information. As part of my graduate studies and independent research, I’ve been exploring areas like image classification, representation learning, and visual reasoning. I’ve worked on published AI research centered on making models more efficient, reliably multi-lingual, and usable in real-world settings.
 
-Professionally, I’ve worked on high-impact projects involving automatic speech recognition (ASR), model optimization, and end-to-end pipeline deployment in production environments. I’m experienced in collaborating across engineering, research, and product teams to deliver ML features that scale globally. I enjoy working on challenging technical problems—from designing new service architectures to fine-tuning models and optimizing inference pipelines.
-
-Outside of work, I’m deeply interested in the future of AI systems that blend language and vision, and in pushing the boundaries of model capabilities in multilingual and multimodal settings. I’m also an advocate for open, reproducible research and enjoy collaborating with others in the ML community.
+Outside of work, I’m deeply interested in the future of AI systems that blend language, vision and reasoning, and in pushing the boundaries of model capabilities in multilingual and multimodal settings.
 
 ## Get in Touch
 

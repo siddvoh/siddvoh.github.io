@@ -10,7 +10,15 @@ redirect_from:
 ## Work Experience
 
 ### Amazon Web Services
-**Software Development Engineer II, AWS AI** (April 2024 - Present) | Seattle, WA
+**Machine Learning Engineer, AWS GenAI Innovation Center** (September 2025 - Present) | Pittsburgh, PA
+- Work as MLE for the new AI native org, working to design new strategies to work directly with AWS customers to deliver
+products and projects that are built keeping agentic AI at the centre
+- Work in an inter-disciplinary small team consisting of Scientists, Researchers and Engineers to develop comprehensive processes and pipelines to reduce time taken from ideation to MVPs and prototypes
+- Building an automated security & compliance tool for AWS architects and external clients to use while developing POCs to reduce
+manual security assessment times by at least 50%
+- **Tech stack**: Java, Typescript, Python, PyTorch, TensorFlow & AWS CDK/AI/ML tools suite
+
+**Software Development Engineer II, AWS AI** (April 2024 - September 2025) | Seattle, WA
 - Specialized in maintaining, enhancing, and improving Amazon Transcribe, AWS Bedrock Data Automation and Amazon Translate within the AWS Bedrock Generative AI Services organization by leveraging cutting-edge AWS AI/ML models and technologies
 - Developed and collaborated on large-scale, advanced automatic speech recognition (ASR) models, significantly enhancing speech-to-text capabilities for up to 30% faster and 2x more accurate transcription services for multi-language use-cases
 - Designed, prototyped and now building a new service architecture to completely revamp audio and video tasks with Agentic AI via Bedrock Data Automation to enhance traditional and Generative AI (GenAI) workflows
