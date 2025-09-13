@@ -55,7 +55,7 @@ manual security assessment times by at least 50%
 ## Education
 
 ### Carnegie Mellon University
-**Master of Science in Computer Science & Mathematics** | | Pittsburgh, PA   
+**Master of Science in Computer Vision** | | Pittsburgh, PA   
 *August 2025 - May 2027*
 
 ### University of California, San Diego
