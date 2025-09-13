@@ -56,11 +56,12 @@ manual security assessment times by at least 50%
 
 ### Carnegie Mellon University
 **Master of Science in Computer Science & Mathematics** | | Pittsburgh, PA   
-*August 2025 - June 2027*
+*August 2025 - May 2027*
 
 ### University of California, San Diego
-**Bachelor of Science in Computer Science & Mathematics** | Cum Laude, Latin Honors | San Diego, CA  
+**Bachelor of Science in Computer Science & Mathematics** | | San Diego, CA  
 *September 2019 - June 2022*
+- Cum Laude, Latin Honors
 - Provost Honors, Eleanor Roosevelt College (All Enrolled Quarters)
 - Founding & Principal Member, Machine Learning Club at UC San Diego and Member, Data Science Student Society
 
